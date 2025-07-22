@@ -21,3 +21,8 @@ It will have the feature of capturing information such as Resume and JD
 * Information we are capturing is ``Resume.pdf`` and ``job_desc``.
 * pdf.py that will process the information in pdf and thats why we have installed ``pypdf``
 * analysis.py that will triangulate the pdf information and the JD and will provide insights and next step.
+
+🚀 Project Overview
+myresume.ai is an AI-powered resume analysis tool designed to assist job seekers in optimizing their resumes for specific job descriptions. By leveraging Generative AI models, this application provides valuable insights to enhance resume quality and alignment with job requirements.
+
+
