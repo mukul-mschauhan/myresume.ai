@@ -25,4 +25,27 @@ It will have the feature of capturing information such as Resume and JD
 🚀 Project Overview
 myresume.ai is an AI-powered resume analysis tool designed to assist job seekers in optimizing their resumes for specific job descriptions. By leveraging Generative AI models, this application provides valuable insights to enhance resume quality and alignment with job requirements.
 
+🧠 Key Features
+- ATS Score: Evaluate how well your resume is likely to perform with Applicant Tracking Systems.
+- Probability of Success: Estimate your chances of getting hired based on resume-job description alignment.
+- Keyword Analysis: Identify missing keywords and suggest relevant additions.
+- SWOT Analysis: Assess your resume's Strengths, Weaknesses, Opportunities, and Threats in the context of the job description.
+- Improvement Suggestions: Receive actionable tips to enhance resume content and structure.
 
+⚙️ Technical Stack
+- Backend: Python
+- Web Framework: Streamlit
+- NLP & AI: OpenAI's GPT models
+- PDF Parsing: PyPDF2
+- Environment Management: Python-dotenv
+
+📄 Usage
+- Upload your resume: Ensure your resume is in PDF format.
+- Paste the job description: Input the job description you're targeting.
+- Analyze: Click the "Analyze & Optimize" button to receive insights and suggestions.
+
+🧪 Project Workflow
+- Resume Upload: Users upload their resume in PDF format.
+- Job Description Input: Users paste the job description into the provided field.
+- Analysis: The application processes the inputs using AI models to generate insights.
+- Results Display: Users receive a detailed report, including ATS score, keyword analysis, SWOT analysis, and improvement suggestions.
