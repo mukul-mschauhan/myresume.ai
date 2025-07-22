@@ -1,6 +1,9 @@
 # myresume.ai
 Resume Analysis...
 
+<img width="1887" height="1096" alt="image" src="https://github.com/user-attachments/assets/592a0b2d-897b-4853-ab50-26e723726591" />
+
+
 ### Steps for Creating the Project
 * Create the Virtual Environment using ``python -m venv .venv``
 * Activate the Virtual Environment using ``source .venv/Scripts/activate``
